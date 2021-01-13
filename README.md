@@ -2,6 +2,8 @@
 A quick utility to help you organize your files (move/copy to directories according to your criteria).
 It also supports custom regular expressions, so you can create whatever criteria you want to customize the organization of your files.
 
+
+![demo](/demo/demo.png)
 # Install
 Install requirements from requirements.txt using pip
 `pip install -r requirements.txt`
