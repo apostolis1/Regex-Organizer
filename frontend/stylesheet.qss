@@ -1,0 +1,22 @@
+
+#mainWindow QPushButton{
+    background-color: #ff8d1e;
+}
+
+#mainWindow QPushButton:hover{
+    background-color: #ea7300;
+}
+
+#mainWindow{
+    background-color: #6bb6ff;
+    }
+
+#mainWindow *{
+    font-size: 10pt;
+    font: "Futura";
+    }
+
+#pushButton_3{
+    font-size: 13pt;
+    font-weight: bold;
+}
